@@ -1,0 +1,66 @@
+[
+    {
+        "outputFile": "/home/shan/AndroidStudioProjects/udacity/MyAppLauncher/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/home/shan/AndroidStudioProjects/udacity/MyAppLauncher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 52,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 52,
+                    "endOffset": 156
+                },
+                "from": {
+                    "file": "/home/shan/AndroidStudioProjects/udacity/MyAppLauncher/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 52,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 161,
+                    "endLine": 5,
+                    "endColumn": 9,
+                    "endOffset": 235
+                },
+                "from": {
+                    "file": "/home/shan/AndroidStudioProjects/udacity/MyAppLauncher/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 3,
+                        "endColumn": 9,
+                        "endOffset": 129
+                    }
+                }
+            }
+        ]
+    }
+]

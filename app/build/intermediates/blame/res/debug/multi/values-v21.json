@@ -1,0 +1,77 @@
+[
+    {
+        "outputFile": "/home/shan/AndroidStudioProjects/udacity/MyAppLauncher/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 38,
+                    "endOffset": 89
+                },
+                "from": {
+                    "file": "/home/shan/AndroidStudioProjects/udacity/MyAppLauncher/app/src/main/res/values-v21/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 96,
+                        "endColumn": 38,
+                        "endOffset": 130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 94,
+                    "endColumn": 37,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/home/shan/AndroidStudioProjects/udacity/MyAppLauncher/app/src/main/res/values-v21/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 135,
+                        "endColumn": 37,
+                        "endOffset": 168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 132,
+                    "endColumn": 40,
+                    "endOffset": 168
+                },
+                "from": {
+                    "file": "/home/shan/AndroidStudioProjects/udacity/MyAppLauncher/app/src/main/res/values-v21/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 40,
+                        "endOffset": 91
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 173,
+                    "endLine": 6,
+                    "endColumn": 9,
+                    "endOffset": 251
+                },
+                "from": {
+                    "file": "/home/shan/AndroidStudioProjects/udacity/MyAppLauncher/app/src/main/res/values-v21/styles.xml"
+                }
+            }
+        ]
+    }
+]
