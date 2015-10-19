@@ -7,8 +7,8 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 38,
-                    "endOffset": 89
+                    "endColumn": 40,
+                    "endOffset": 91
                 },
                 "from": {
                     "file": "/home/shan/AndroidStudioProjects/udacity/MyAppLauncher/app/src/main/res/values-v21/colors.xml",
@@ -16,8 +16,8 @@
                         "startLine": 3,
                         "startColumn": 4,
                         "startOffset": 96,
-                        "endColumn": 38,
-                        "endOffset": 130
+                        "endColumn": 40,
+                        "endOffset": 132
                     }
                 }
             },
@@ -25,18 +25,18 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 94,
+                    "startOffset": 96,
                     "endColumn": 37,
-                    "endOffset": 127
+                    "endOffset": 129
                 },
                 "from": {
                     "file": "/home/shan/AndroidStudioProjects/udacity/MyAppLauncher/app/src/main/res/values-v21/colors.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 135,
+                        "startOffset": 137,
                         "endColumn": 37,
-                        "endOffset": 168
+                        "endOffset": 170
                     }
                 }
             },
@@ -44,9 +44,9 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 132,
+                    "startOffset": 134,
                     "endColumn": 40,
-                    "endOffset": 168
+                    "endOffset": 170
                 },
                 "from": {
                     "file": "/home/shan/AndroidStudioProjects/udacity/MyAppLauncher/app/src/main/res/values-v21/colors.xml",
@@ -63,13 +63,21 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 173,
+                    "startOffset": 175,
                     "endLine": 6,
                     "endColumn": 9,
-                    "endOffset": 251
+                    "endOffset": 253
                 },
                 "from": {
-                    "file": "/home/shan/AndroidStudioProjects/udacity/MyAppLauncher/app/src/main/res/values-v21/styles.xml"
+                    "file": "/home/shan/AndroidStudioProjects/udacity/MyAppLauncher/app/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 3,
+                        "endColumn": 9,
+                        "endOffset": 133
+                    }
                 }
             }
         ]
